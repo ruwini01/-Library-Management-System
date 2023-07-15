@@ -1,2 +1,2 @@
-# -Library-Management-System
+# Library-Management-System
 Java Project-1
